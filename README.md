@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohamed Gamal
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently work as Frontend Devloper react libarary js and FrameWork Nextjs
 - 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me mohamedgamao@538@gmail.com
+- 📫 How to reach me mohamedgamalo@538@gmail.com
 
 
 <!---
